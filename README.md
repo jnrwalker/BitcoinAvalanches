@@ -6,4 +6,6 @@ Bitcoin price data is available in the file 'BTC-USD.csv', spanning the date ran
 (2) quantifying fluctuations
 (3) avalanche analysis
 
+This analysis approach will identify and quantify fluctuations, or 'avalanches' in a stationary timeseries, in this example, bitcoin price data is used. From the statistics of extracted fluctuations, power law relationships can be characterized that relate the average avalanche sizes and trajectories to their durations.
+
 This analysis pipeline can be modified to investigate any time series dataset. In order to do so, first download your desired data and then change the relevant parts of the Jupiter notebook.
